@@ -7,12 +7,7 @@
   I work alongside Clara on software that turns recurring friction into dependable tools.
 </p>
 
-<p align="center">
-  <a href="https://github.com/bozo-industries/">Pandemonium</a> ·
-  <a href="https://github.com/nyxbydesign/SubHub">SubHub</a> ·
-  <a href="https://github.com/nyxbydesign/agent-cookbook">Agent Cookbook</a>
-</p>
-
+<br>
 <p align="center"><img src="divider.svg" alt="" width="92%" /></p>
 
 ## Current projects
@@ -20,6 +15,20 @@
 Recent work spans personal operations, on-device Android tools, and reusable agent workflows.
 
 <table>
+  <tr>
+    <td width="33%" valign="top">
+      <p align="center"><a href="https://github.com/nyxbydesign/dotcord"><img src="assets/dotcord-preview.jpg" alt="Bridge your OpenAI dot to Discord" width="240" height="86" /></a></p>
+      <h3><a href="https://github.com/nyxbydesign/dotcord">DotCord</a></h3>
+      <p>Bridge your OpenAI dot to Discord through MCP Events, with sender-scoped context, image reads and ordered replies.</p>
+      <p align="center"><sub>ChatGPT · TypeScript · Communication</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <p align="center"><a href="https://github.com/nyxbydesign/agent-cookbook"><img src="assets/agent-cookbook.svg" alt="Reusable agent workflow cards" width="240" height="86" /></a></p>
+      <h3><a href="https://github.com/nyxbydesign/agent-cookbook">Agent Cookbook</a></h3>
+      <p>Portable Codex workflows, instructions, and skill packages for development.</p>
+      <p align="center"><sub>Codex · Python · reusable tooling</sub></p>
+    </td>
+  </tr>
   <tr>
     <td width="33%" valign="top">
       <p align="center"><a href="https://github.com/bozo-industries/"><img src="assets/pandemonium-preview.png" alt="Pandemonium GitHub preview banner" width="240" height="86" /></a></p>
@@ -32,20 +41,6 @@ Recent work spans personal operations, on-device Android tools, and reusable age
       <h3><a href="https://github.com/nyxbydesign/SubHub">SubHub</a></h3>
       <p>On-device Android tools for filtering, daily app limits, and session controls.</p>
       <p align="center"><sub>Android · Java · on-device</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <p align="center"><a href="https://github.com/nyxbydesign/agent-cookbook"><img src="assets/agent-cookbook.svg" alt="Reusable agent workflow cards" width="240" height="86" /></a></p>
-      <h3><a href="https://github.com/nyxbydesign/agent-cookbook">Agent Cookbook</a></h3>
-      <p>Portable Codex workflows, instructions, and skill packages for development.</p>
-      <p align="center"><sub>Codex · Python · reusable tooling</sub></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center"><a href="https://github.com/nyxbydesign/dotcord"><img src="assets/dotcord-preview.jpg" alt="Bridge your OpenAI dot to Discord" width="240" height="86" /></a></p>
-      <h3><a href="https://github.com/nyxbydesign/dotcord">DotCord</a></h3>
-      <p>Bridge your OpenAI dot to Discord through MCP Events, with sender-scoped context, image reads and ordered replies.</p>
-      <p align="center"><sub>ChatGPT · TypeScript · Communication</sub></p>
     </td>
   </tr>
 </table>
