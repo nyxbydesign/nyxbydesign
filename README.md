@@ -10,45 +10,55 @@
 <br>
 <p align="center"><img src="divider.svg" alt="" width="92%" /></p>
 
-## Current projects
+## ✦ Selected projects
 
-Recent work spans personal operations, on-device Android tools, and reusable agent workflows.
+<p align="center"><sub>Tools for calmer workflows, clearer boundaries, and less repeated friction.</sub></p>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <p align="center"><a href="https://github.com/nyxbydesign/dotcord"><img src="assets/dotcord-preview.jpg" alt="Bridge your OpenAI dot to Discord" width="240" height="86" /></a></p>
-      <h3><a href="https://github.com/nyxbydesign/dotcord">DotCord</a></h3>
-      <p>Bridge your OpenAI dot to Discord through MCP Events, with sender-scoped context, image reads and ordered replies.</p>
-      <p align="center"><sub>ChatGPT · TypeScript · Communication</sub></p>
-    </td>
-    <td width="33%" valign="top">
-      <p align="center"><a href="https://github.com/nyxbydesign/agent-cookbook"><img src="assets/agent-cookbook.svg" alt="Reusable agent workflow cards" width="240" height="86" /></a></p>
-      <h3><a href="https://github.com/nyxbydesign/agent-cookbook">Agent Cookbook</a></h3>
-      <p>Portable Codex workflows, instructions, and skill packages for development.</p>
-      <p align="center"><sub>Codex · Python · reusable tooling</sub></p>
+    <td width="54%"><a href="https://github.com/nyxbydesign/dotcord"><img src="https://raw.githubusercontent.com/nyxbydesign/nyxbydesign/main/assets/dotcord-preview.jpg" alt="DotCord's plush violet assistant crossing a bridge to Discord" width="100%" /></a></td>
+    <td width="46%" valign="middle">
+      <h3>01 · <a href="https://github.com/nyxbydesign/dotcord">DotCord</a></h3>
+      <p>A thoughtful bridge between ChatGPT and Discord, built around MCP Events, sender-scoped context, image reads, and ordered replies.</p>
+      <p><sub>CHATGPT · DISCORD · TYPESCRIPT</sub></p>
+      <a href="https://github.com/nyxbydesign/dotcord">Explore DotCord →</a>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <p align="center"><a href="https://github.com/bozo-industries/"><img src="assets/pandemonium-preview.png" alt="Pandemonium GitHub preview banner" width="240" height="86" /></a></p>
-      <h3><a href="https://github.com/bozo-industries/">Pandemonium</a></h3>
-      <p>Self-hosted modules for finance, work, transport, and knowledge workflows.</p>
-      <p align="center"><sub>Multi-Functional · TypeScript · self-hosted</sub></p>
+    <td width="46%" valign="middle">
+      <h3>02 · <a href="https://github.com/nyxbydesign/agent-cookbook">Agent Cookbook</a></h3>
+      <p>Portable Codex workflows, instructions, and skills: practical recipes for making repeatable development work easier to pick up and share.</p>
+      <p><sub>CODEX · WORKFLOWS · REUSABLE TOOLS</sub></p>
+      <a href="https://github.com/nyxbydesign/agent-cookbook">Browse the cookbook →</a>
     </td>
-    <td width="33%" valign="top">
-      <p align="center"><a href="https://github.com/nyxbydesign/SubHub"><img src="assets/subhub-preview.jpg" alt="SubHub GitHub preview banner" width="240" height="86" /></a></p>
-      <h3><a href="https://github.com/nyxbydesign/SubHub">SubHub</a></h3>
-      <p>On-device Android tools for filtering, daily app limits, and session controls.</p>
-      <p align="center"><sub>Android · Java · on-device</sub></p>
+    <td width="54%"><a href="https://github.com/nyxbydesign/agent-cookbook"><img src="https://raw.githubusercontent.com/nyxbydesign/nyxbydesign/main/assets/agent-cookbook.svg" alt="Agent Cookbook's layered reusable workflow cards" width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="54%"><a href="https://github.com/bozo-industries/"><img src="https://raw.githubusercontent.com/nyxbydesign/nyxbydesign/main/assets/pandemonium-preview.png" alt="Pandemonium's moonlit violet operations dashboard and module lineup" width="100%" /></a></td>
+    <td width="46%" valign="middle">
+      <h3>03 · <a href="https://github.com/bozo-industries/">Pandemonium</a></h3>
+      <p>A self-hosted home for the moving parts of daily life, bringing finance, work, transport, and knowledge workflows into one modular system.</p>
+      <p><sub>SELF-HOSTED · MODULAR · TYPESCRIPT</sub></p>
+      <a href="https://github.com/bozo-industries/">See Pandemonium →</a>
     </td>
+  </tr>
+  <tr>
+    <td width="46%" valign="middle">
+      <h3>04 · <a href="https://github.com/nyxbydesign/SubHub">SubHub</a></h3>
+      <p>On-device Android tools for filtering, personal app limits, and session controls—designed to keep more control close to the phone.</p>
+      <p><sub>ANDROID · JAVA · ON-DEVICE</sub></p>
+      <a href="https://github.com/nyxbydesign/SubHub">Explore SubHub →</a>
+    </td>
+    <td width="54%"><a href="https://github.com/nyxbydesign/SubHub"><img src="https://raw.githubusercontent.com/nyxbydesign/nyxbydesign/main/assets/subhub-preview.jpg" alt="SubHub's magenta shield crest and dark fantasy wordmark" width="100%" /></a></td>
   </tr>
 </table>
 
 ## Other tools
 
-- [Discord Favorites Manager](https://github.com/nyxbydesign/Discord-Favorites-Manager) — a local browser tool for managing saved Discord GIFs.
-- [Duolicious Song Uploader](https://github.com/nyxbydesign/Duolicious-Song-Uploader) — upload an existing short audio clip as a profile voice note.
+- **[Discord Favorites Manager](https://github.com/nyxbydesign/Discord-Favorites-Manager)** — Manage saved Discord GIFs in a local browser tool.
+- **[Duolicious Song Uploader](https://github.com/nyxbydesign/Duolicious-Song-Uploader)** — Upload a short audio clip as a profile voice note.
+
+<br>
 
 ## Working style
 
@@ -58,4 +68,6 @@ Recent work spans personal operations, on-device Android tools, and reusable age
   <code>verify the real behavior</code>
 </p>
 
+<br>
+<p align="center"><img src="divider.svg" alt="" width="92%" /></p>
 <p align="center"><sub>Less friction, fewer mystery failures.</sub></p>
