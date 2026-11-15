@@ -29,7 +29,7 @@
       <h3>02 · <a href="https://github.com/nyxbydesign/agent-cookbook">Agent Cookbook</a></h3>
       <p>Portable Codex workflows, instructions, and skills: practical recipes for making repeatable development work easier to pick up and share.</p>
       <p><sub>CODEX · WORKFLOWS · REUSABLE TOOLS</sub></p>
-      <a href="https://github.com/nyxbydesign/agent-cookbook">Browse the cookbook →</a>
+      <a href="https://github.com/nyxbydesign/agent-cookbook/tree/master">Browse the cookbook →</a>
     </td>
     <td width="54%"><a href="https://github.com/nyxbydesign/agent-cookbook"><img src="https://raw.githubusercontent.com/nyxbydesign/nyxbydesign/main/assets/agent-cookbook.svg" alt="Agent Cookbook's layered reusable workflow cards" width="100%" /></a></td>
   </tr>
@@ -39,7 +39,7 @@
       <h3>03 · <a href="https://github.com/bozo-industries/">Pandemonium</a></h3>
       <p>A self-hosted home for the moving parts of daily life, bringing finance, work, transport, and knowledge workflows into one modular system.</p>
       <p><sub>SELF-HOSTED · MODULAR · TYPESCRIPT</sub></p>
-      <a href="https://github.com/bozo-industries/">See Pandemonium →</a>
+      <a href="https://claras. page/wiki/">Learn more... →</a>
     </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@
       <h3>04 · <a href="https://github.com/nyxbydesign/SubHub">SubHub</a></h3>
       <p>On-device Android tools for filtering, personal app limits, and session controls—designed to keep more control close to the phone.</p>
       <p><sub>ANDROID · JAVA · ON-DEVICE</sub></p>
-      <a href="https://github.com/nyxbydesign/SubHub">Explore SubHub →</a>
+      <a href="https://github.com/nyxbydesign/SubHub/releases">Install SubHub →</a>
     </td>
     <td width="54%"><a href="https://github.com/nyxbydesign/SubHub"><img src="https://raw.githubusercontent.com/nyxbydesign/nyxbydesign/main/assets/subhub-preview.jpg" alt="SubHub's magenta shield crest and dark fantasy wordmark" width="100%" /></a></td>
   </tr>
@@ -55,7 +55,8 @@
 
 ## Other tools
 
-- **[Discord Favorites Manager](https://github.com/nyxbydesign/Discord-Favorites-Manager)** — Manage saved Discord GIFs in a local browser tool.
+- **[DongleRoute](https://github.com/nyxbydesign/Dongle-Route)** - Detect USB audio dongles and configure phone microphone preferences.
+- **[Discord Favorites Manager](https://github.com/d-Favorites-Manager)** — Manage saved Discord GIFs in a local browser tool.
 - **[Duolicious Song Uploader](https://github.com/nyxbydesign/Duolicious-Song-Uploader)** — Upload a short audio clip as a profile voice note.
 
 <br>
